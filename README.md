@@ -1,4 +1,4 @@
-# Colorful-Cows
+# Colorful Cows
 
 Colorful Cows is a Minecraft: Bedrock Edition add-on, that adds different types of cow entities to your world.
 
