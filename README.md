@@ -7,4 +7,5 @@ Including resource pack, behavior pack, and arts; this add-on/mod is made by Pea
 Do not edit and share publicly without permission.
 
 Mail: peawblast@gmail.com
+
 YouTube: https://www.youtube.com/@Peawblast
