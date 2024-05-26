@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§h§oThe resources you will need to get better experience while playing with Colorful Cows. §f(made by §cPeabox§f)",
+        "name": "§hColorful Cows (Behavior Pack)",
+        "uuid": "e42ba116-44c6-4c21-a17b-85821751e41e",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 19, 70 ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "data",
+            "uuid": "17b6174d-6596-4967-8940-983047572ff4",
+            "version": [0, 0, 1]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "7812ee41-7c7a-46b4-a10d-082d9bd9e359",
+            "version": [0, 0, 1]
+        }
+    ]
+}
