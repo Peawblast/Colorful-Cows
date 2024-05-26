@@ -1,0 +1,39 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "cow:melon_cow",
+			"min_engine_version": "1.8.0",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/melon_cow"
+			},
+			"geometry": {
+				"default": "geometry.melon_cow"
+			},
+			"animations": {
+				"walk": "animation.melon_cow.walk",
+				"look_at_target": "animation.common.look_at_target",
+				"baby_transform": "animation.melon_cow.baby_transform"
+			},
+			"scripts": {
+				"animate": [
+					{
+						"walk": "query.modified_move_speed"
+					},
+					"look_at_target",
+					{
+						"baby_transform": "query.is_baby"
+					}
+				]
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"texture": "egg_melon_cow",
+				"texture_index": 0
+			}
+		}
+	}
+}

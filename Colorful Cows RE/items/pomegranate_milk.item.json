@@ -1,0 +1,15 @@
+{
+	"format_version": "1.10",
+	"minecraft:item": {
+	  "description": {
+		"identifier": "cow:pomegranate_milk",
+        "category": "nature"
+		},
+		"components": {
+			"minecraft:icon": "pomegranate_milk",
+			"minecraft:use_animation": "drink",
+			"minecraft:hover_text_color": "white",
+			"minecraft:render_offsets": "apple"
+		}
+	}
+}
